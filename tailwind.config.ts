@@ -19,6 +19,6 @@ const config: Config = {
 };
 export default config;
 
-module.exports = {
-  important: true,  //add!
-};
+
+
+
