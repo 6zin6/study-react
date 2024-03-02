@@ -1,5 +1,5 @@
 import Image from "next/image";
-import "./src/app/globals.css";
+import "../src/app/globals.css";
 
 export function Hero() {
     return (
